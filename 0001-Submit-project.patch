@@ -1,0 +1,29 @@
+From 4892d8cd93d8c89c3d1d79edef363b00b2849421 Mon Sep 17 00:00:00 2001
+From: Joshua Wilson <Joshuadwilson@u.boisestate.edu>
+Date: Thu, 8 Feb 2024 19:20:44 +0000
+Subject: [PATCH] Submit project
+
+---
+ joshua-wilson.txt | 1 +
+ the-date.txt      | 1 +
+ 2 files changed, 2 insertions(+)
+ create mode 100644 joshua-wilson.txt
+ create mode 100644 the-date.txt
+
+diff --git a/joshua-wilson.txt b/joshua-wilson.txt
+new file mode 100644
+index 0000000..4523b36
+--- /dev/null
++++ b/joshua-wilson.txt
+@@ -0,0 +1 @@
++Joshua Wilson
+diff --git a/the-date.txt b/the-date.txt
+new file mode 100644
+index 0000000..d999e8f
+--- /dev/null
++++ b/the-date.txt
+@@ -0,0 +1 @@
++Sun Feb  4 23:09:36 UTC 2024
+-- 
+2.43.0
+
